@@ -3,7 +3,7 @@ void main()
 {
 char c;
 cin>>c;
-if(c>='a'&&c<==z||c>='A'&&c=<'B')
+if((c>='a'&&c<==z)||(c>='A'&&c=<'Z'))
 {
 cout<<"alphebet";
 else
