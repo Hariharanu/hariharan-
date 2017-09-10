@@ -1,10 +1,10 @@
 #include<iostrem.h>
 void main()
-{ int i,sum;
+{ int i,b;
 cin>>i;
 for(i=0;i<=n;i++)
 { 
-sum=0;
-sum+=i;
-}cout<<sum;
+b=0;
+b+=i;
+}cout<<b;
 }
